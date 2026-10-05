@@ -1,0 +1,41 @@
+2026.10.05 17:08:59 INFO  Started: Metals version 1.6.9 in folders 'C:\dev\flow-forge' for client Visual Studio Code 1.140.0.
+2026.10.05 17:08:59 INFO  Memory monitor started
+2026.10.05 17:08:59 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.10.05 17:09:00 INFO  no build target found for C:\dev\flow-forge\src\test\java\com\flowforge\FlowForgeApplicationTests.java. Using fallback presentation compiler.
+2026.10.05 17:09:00 INFO  no build target found for C:\dev\flow-forge\src\test\java\com\flowforge\FlowForgeApplicationTests.java. Using fallback presentation compiler.
+Oct 05, 2026 5:09:03 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.10.05 17:09:03 INFO  no build target found for C:\dev\flow-forge\src\test\java\com\flowforge\FlowForgeApplicationTests.java. Using fallback presentation compiler.
+2026.10.05 17:09:03 INFO  no build target found for C:\dev\flow-forge\src\test\java\com\flowforge\FlowForgeApplicationTests.java. Using fallback presentation compiler.
+2026.10.05 17:09:03 INFO  running 'C:\dev\flow-forge\gradlew.bat --stacktrace --console=plain --init-script C:\Users\ABDUL~1.AZI\AppData\Local\Temp\metals10577881827623717247\init-script.gradle bloopInstall'
+Oct 05, 2026 5:09:04 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.10.05 17:09:04 INFO  no build target found for C:\dev\flow-forge\src\test\java\com\flowforge\FlowForgeApplicationTests.java. Using fallback presentation compiler.
+2026.10.05 17:09:04 INFO  no build target found for C:\dev\flow-forge\src\test\java\com\flowforge\FlowForgeApplicationTests.java. Using fallback presentation compiler.
+2026.10.05 17:09:04 INFO  no build target found for C:\dev\flow-forge\src\test\java\com\flowforge\FlowForgeApplicationTests.java. Using fallback presentation compiler.
+2026.10.05 17:09:05 INFO  no build target found for C:\dev\flow-forge\src\test\java\com\flowforge\FlowForgeApplicationTests.java. Using fallback presentation compiler.
+2026.10.05 17:09:06 INFO  > Task :configureBloopInstall
+2026.10.05 17:09:14 INFO  > Task :bloopInstall
+2026.10.05 17:09:14 INFO  
+2026.10.05 17:09:14 INFO  [Incubating] Problems report is available at: file:///C:/dev/flow-forge/build/reports/problems/problems-report.html
+2026.10.05 17:09:14 INFO  
+2026.10.05 17:09:14 INFO  Deprecated Gradle features were used in this build, making it incompatible with Gradle 10.
+2026.10.05 17:09:14 INFO  
+2026.10.05 17:09:14 INFO  You can use '--warning-mode all' to show the individual deprecation warnings and determine if they come from your own scripts or plugins.
+2026.10.05 17:09:14 INFO  
+2026.10.05 17:09:14 INFO  For more on this, please refer to https://docs.gradle.org/9.7.1/userguide/command_line_interface.html#sec:command_line_warnings in the Gradle documentation.
+2026.10.05 17:09:14 INFO  
+2026.10.05 17:09:14 INFO  BUILD SUCCESSFUL in 10s
+2026.10.05 17:09:14 INFO  2 actionable tasks: 2 executed
+2026.10.05 17:09:14 INFO  Consider enabling configuration cache to speed up this build: https://docs.gradle.org/9.7.1/userguide/configuration_cache_enabling.html
+2026.10.05 17:09:14 INFO  time: ran 'gradle bloopInstall' in 10s
+2026.10.05 17:09:14 INFO  Attempting to connect to the build server...
+2026.10.05 17:09:14 INFO  Found a Bloop server running
+2026.10.05 17:09:14 INFO  Tracing is disabled for protocol BSP. To enable tracing of incoming and outgoing JSON messages, create an empty file at C:\dev\flow-forge\.metals\bsp.trace.json or C:\Users\abdul.aziz\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2026.10.05 17:09:14 INFO  time: Connected to build server in 0.38s
+2026.10.05 17:09:14 INFO  Connected to Build server: Bloop v2.1.2
+2026.10.05 17:09:14 INFO  time: Imported build in 0.13s
+2026.10.05 17:09:16 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+Oct 05, 2026 5:09:24 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.10.05 17:09:26 INFO  time: indexed workspace in 11s
