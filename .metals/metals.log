@@ -39,3 +39,1543 @@ INFO: Unsupported notification method: $/setTrace
 Oct 05, 2026 5:09:24 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
 2026.10.05 17:09:26 INFO  time: indexed workspace in 11s
+Oct 05, 2026 5:09:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 24
+2026.10.05 17:09:26 INFO  compiling flow-forge (1 java source)
+2026.10.05 17:09:29 INFO  compiling flow-forge-test (1 java source)
+2026.10.05 17:09:29 INFO  time: compiled flow-forge in 3.22s
+2026.10.05 17:09:31 INFO  time: compiled flow-forge-test in 2.42s
+2026.10.05 17:11:16 INFO  compiling flow-forge (1 java source)
+2026.10.05 17:11:16 INFO  time: compiled flow-forge in 0.91s
+2026.10.05 17:11:17 INFO  compiling flow-forge (1 java source)
+2026.10.05 17:11:17 INFO  time: compiled flow-forge in 0.82s
+2026.10.05 17:11:26 INFO  compiling flow-forge (1 java source)
+Oct 05, 2026 5:11:27 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([401 (@) <-> [401 (@)) None
+2026.10.05 17:11:26 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/controller/UserController.java:3:5: stale bloop error:  error: reached end of file while parsing
+@Res
+    ^
+2026.10.05 17:11:26 WARN  javac exited with exit code 1
+2026.10.05 17:11:26 INFO  time: compiled flow-forge in 0.55s
+Oct 05, 2026 5:11:28 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([401 (@) <-> [401 (@)) None
+2026.10.05 17:11:28 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/controller/UserController.java:3:5: stale bloop error:  error: reached end of file while parsing
+@Res
+    ^
+Oct 05, 2026 5:11:28 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([401 (@) <-> [401 (@)) None
+2026.10.05 17:11:28 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/controller/UserController.java:3:5: stale bloop error:  error: reached end of file while parsing
+@Res
+    ^
+Oct 05, 2026 5:11:28 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([401 (@) <-> [401 (@)) None
+2026.10.05 17:11:28 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/controller/UserController.java:3:5: stale bloop error:  error: reached end of file while parsing
+@Res
+    ^
+Oct 05, 2026 5:11:28 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([401 (@) <-> [401 (@)) None
+2026.10.05 17:11:28 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/controller/UserController.java:3:5: stale bloop error:  error: reached end of file while parsing
+@Res
+    ^
+2026.10.05 17:11:29 INFO  compiling flow-forge (1 java source)
+2026.10.05 17:11:29 WARN  javac exited with exit code 1
+2026.10.05 17:11:29 INFO  time: compiled flow-forge in 0.47s
+Oct 05, 2026 5:11:31 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([1000 ( ) <-> [1000 ( )) None
+2026.10.05 17:11:31 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/controller/UserController.java:5:17: stale bloop error:  error: reached end of file while parsing
+@RestController 
+                ^
+Oct 05, 2026 5:11:31 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([1000 ( ) <-> [1000 ( )) None
+2026.10.05 17:11:31 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/controller/UserController.java:5:17: stale bloop error:  error: reached end of file while parsing
+@RestController 
+                ^
+Oct 05, 2026 5:11:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 120
+Oct 05, 2026 5:11:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 122
+Oct 05, 2026 5:11:32 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([1000 ( ) <-> [1000 ( )) None
+2026.10.05 17:11:32 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/controller/UserController.java:5:17: stale bloop error:  error: reached end of file while parsing
+@RestController 
+                ^
+Oct 05, 2026 5:11:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 125
+Oct 05, 2026 5:11:32 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([1000 ( ) <-> [1000 ( )) None
+2026.10.05 17:11:32 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/controller/UserController.java:5:17: stale bloop error:  error: reached end of file while parsing
+@RestController 
+                ^
+Oct 05, 2026 5:11:32 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([1000 ( ) <-> [1000 ( )) None
+2026.10.05 17:11:32 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/controller/UserController.java:5:17: stale bloop error:  error: reached end of file while parsing
+@RestController 
+                ^
+Oct 05, 2026 5:11:33 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([1000 ( ) <-> [1000 ( )) None
+2026.10.05 17:11:32 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/controller/UserController.java:5:17: stale bloop error:  error: reached end of file while parsing
+@RestController 
+                ^
+Oct 05, 2026 5:11:33 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([1000 ( ) <-> [1000 ( )) None
+2026.10.05 17:11:32 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/controller/UserController.java:5:17: stale bloop error:  error: reached end of file while parsing
+@RestController 
+                ^
+Oct 05, 2026 5:11:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 119
+Oct 05, 2026 5:11:33 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([1000 ( ) <-> [1000 ( )) None
+2026.10.05 17:11:32 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/controller/UserController.java:5:17: stale bloop error:  error: reached end of file while parsing
+@RestController 
+                ^
+Oct 05, 2026 5:11:33 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([1000 ( ) <-> [1000 ( )) None
+2026.10.05 17:11:32 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/controller/UserController.java:5:17: stale bloop error:  error: reached end of file while parsing
+@RestController 
+                ^
+Oct 05, 2026 5:11:33 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([1000 ( ) <-> [1000 ( )) None
+2026.10.05 17:11:32 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/controller/UserController.java:5:17: stale bloop error:  error: reached end of file while parsing
+@RestController 
+                ^
+Oct 05, 2026 5:11:34 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([1000 ( ) <-> [1000 ( )) None
+2026.10.05 17:11:34 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/controller/UserController.java:5:17: stale bloop error:  error: reached end of file while parsing
+@RestController 
+                ^
+Oct 05, 2026 5:11:34 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([1000 ( ) <-> [1000 ( )) None
+2026.10.05 17:11:34 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/controller/UserController.java:5:17: stale bloop error:  error: reached end of file while parsing
+@RestController 
+                ^
+Oct 05, 2026 5:11:34 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([1000 ( ) <-> [1000 ( )) None
+2026.10.05 17:11:34 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/controller/UserController.java:5:17: stale bloop error:  error: reached end of file while parsing
+@RestController 
+                ^
+Oct 05, 2026 5:11:35 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([1000 ( ) <-> [1000 ( )) None
+2026.10.05 17:11:35 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/controller/UserController.java:5:17: stale bloop error:  error: reached end of file while parsing
+@RestController 
+                ^
+Oct 05, 2026 5:11:36 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([1000 ( ) <-> [1000 ( )) None
+2026.10.05 17:11:35 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/controller/UserController.java:5:17: stale bloop error:  error: reached end of file while parsing
+@RestController 
+                ^
+Oct 05, 2026 5:11:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 165
+Oct 05, 2026 5:11:36 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([1000 ( ) <-> [1000 ( )) None
+2026.10.05 17:11:35 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/controller/UserController.java:5:17: stale bloop error:  error: reached end of file while parsing
+@RestController 
+                ^
+Oct 05, 2026 5:11:36 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([1000 ( ) <-> [1000 ( )) None
+2026.10.05 17:11:35 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/controller/UserController.java:5:17: stale bloop error:  error: reached end of file while parsing
+@RestController 
+                ^
+Oct 05, 2026 5:11:36 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([1000 ( ) <-> [1000 ( )) None
+2026.10.05 17:11:36 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/controller/UserController.java:5:17: stale bloop error:  error: reached end of file while parsing
+@RestController 
+                ^
+Oct 05, 2026 5:11:37 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([1000 ( ) <-> [1000 ( )) None
+2026.10.05 17:11:36 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/controller/UserController.java:5:17: stale bloop error:  error: reached end of file while parsing
+@RestController 
+                ^
+Oct 05, 2026 5:11:37 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([1000 ( ) <-> [1000 ( )) None
+2026.10.05 17:11:36 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/controller/UserController.java:5:17: stale bloop error:  error: reached end of file while parsing
+@RestController 
+                ^
+Oct 05, 2026 5:11:37 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([1000 ( ) <-> [1000 ( )) None
+2026.10.05 17:11:36 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/controller/UserController.java:5:17: stale bloop error:  error: reached end of file while parsing
+@RestController 
+                ^
+Oct 05, 2026 5:11:37 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([1000 ( ) <-> [1000 ( )) None
+2026.10.05 17:11:36 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/controller/UserController.java:5:17: stale bloop error:  error: reached end of file while parsing
+@RestController 
+                ^
+Oct 05, 2026 5:11:38 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([1000 ( ) <-> [1000 ( )) None
+2026.10.05 17:11:38 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/controller/UserController.java:5:17: stale bloop error:  error: reached end of file while parsing
+@RestController 
+                ^
+Oct 05, 2026 5:11:38 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([1000 ( ) <-> [1000 ( )) None
+2026.10.05 17:11:38 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/controller/UserController.java:5:17: stale bloop error:  error: reached end of file while parsing
+@RestController 
+                ^
+Oct 05, 2026 5:11:38 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([1000 ( ) <-> [1000 ( )) None
+2026.10.05 17:11:38 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/controller/UserController.java:5:17: stale bloop error:  error: reached end of file while parsing
+@RestController 
+                ^
+Oct 05, 2026 5:11:38 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([1000 ( ) <-> [1000 ( )) None
+2026.10.05 17:11:38 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/controller/UserController.java:5:17: stale bloop error:  error: reached end of file while parsing
+@RestController 
+                ^
+Oct 05, 2026 5:11:38 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([1000 ( ) <-> [1000 ( )) None
+2026.10.05 17:11:38 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/controller/UserController.java:5:17: stale bloop error:  error: reached end of file while parsing
+@RestController 
+                ^
+Oct 05, 2026 5:11:39 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([1000 ( ) <-> [1000 ( )) None
+2026.10.05 17:11:39 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/controller/UserController.java:5:17: stale bloop error:  error: reached end of file while parsing
+@RestController 
+                ^
+Oct 05, 2026 5:11:40 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([1000 ( ) <-> [1000 ( )) None
+2026.10.05 17:11:39 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/controller/UserController.java:5:17: stale bloop error:  error: reached end of file while parsing
+@RestController 
+                ^
+2026.10.05 17:11:41 INFO  compiling flow-forge (1 java source)
+2026.10.05 17:11:42 INFO  time: compiled flow-forge in 1.03s
+2026.10.05 17:11:44 INFO  compiling flow-forge (1 java source)
+Oct 05, 2026 5:11:45 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:11:44 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/controller/UserController.java:8:2: stale bloop error:  error: illegal start of type
+}
+ ^
+2026.10.05 17:11:44 WARN  javac exited with exit code 1
+2026.10.05 17:11:44 INFO  time: compiled flow-forge in 0.55s
+Oct 05, 2026 5:11:45 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:11:45 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/controller/UserController.java:8:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:11:45 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:11:45 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/controller/UserController.java:8:2: stale bloop error:  error: illegal start of type
+}
+ ^
+2026.10.05 17:11:46 INFO  compiling flow-forge (1 java source)
+2026.10.05 17:11:46 WARN  javac exited with exit code 1
+2026.10.05 17:11:46 INFO  time: compiled flow-forge in 0.46s
+Oct 05, 2026 5:11:47 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:11:47 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/controller/UserController.java:10:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:11:48 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:11:47 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/controller/UserController.java:10:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:11:48 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:11:48 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/controller/UserController.java:10:2: stale bloop error:  error: illegal start of type
+}
+ ^
+2026.10.05 17:11:49 INFO  compiling flow-forge (1 java source)
+Oct 05, 2026 5:11:50 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:11:50 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/controller/UserController.java:10:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:11:50 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:11:49 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/controller/UserController.java:9:2: stale bloop error:  error: illegal start of type
+}
+ ^
+2026.10.05 17:11:49 WARN  javac exited with exit code 1
+2026.10.05 17:11:49 INFO  time: compiled flow-forge in 0.48s
+2026.10.05 17:11:51 INFO  compiling flow-forge (1 java source)
+Oct 05, 2026 5:11:51 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:11:51 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/controller/UserController.java:9:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:11:51 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:11:51 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/controller/UserController.java:9:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:11:51 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:11:51 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/controller/UserController.java:9:2: stale bloop error:  error: illegal start of type
+}
+ ^
+2026.10.05 17:11:51 WARN  javac exited with exit code 1
+2026.10.05 17:11:51 INFO  time: compiled flow-forge in 0.49s
+Oct 05, 2026 5:11:51 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:11:51 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/controller/UserController.java:9:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:11:52 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:11:51 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/controller/UserController.java:9:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:11:53 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:11:53 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/controller/UserController.java:9:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:11:53 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:11:53 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/controller/UserController.java:9:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:11:54 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:11:53 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/controller/UserController.java:9:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:11:54 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:11:54 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/controller/UserController.java:9:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:11:54 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:11:54 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/controller/UserController.java:9:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:11:54 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:11:54 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/controller/UserController.java:9:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:11:55 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:11:54 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/controller/UserController.java:9:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:11:55 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:11:55 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/controller/UserController.java:9:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:11:56 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:11:55 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/controller/UserController.java:9:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:11:56 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:11:55 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/controller/UserController.java:9:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:11:56 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:11:55 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/controller/UserController.java:9:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:11:56 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:11:55 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/controller/UserController.java:9:2: stale bloop error:  error: illegal start of type
+}
+ ^
+2026.10.05 17:11:57 INFO  compiling flow-forge (1 java source)
+2026.10.05 17:11:57 WARN  javac exited with exit code 1
+2026.10.05 17:11:57 INFO  time: compiled flow-forge in 0.52s
+Oct 05, 2026 5:11:58 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:11:58 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/controller/UserController.java:9:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:11:58 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:11:58 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/controller/UserController.java:9:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:11:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 371
+Oct 05, 2026 5:11:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 369
+Oct 05, 2026 5:11:59 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:11:59 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/controller/UserController.java:9:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:11:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 370
+Oct 05, 2026 5:11:59 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:11:59 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/controller/UserController.java:9:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:12:00 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:11:59 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/controller/UserController.java:9:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:12:00 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:11:59 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/controller/UserController.java:9:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:12:01 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:12:01 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/controller/UserController.java:9:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:12:01 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:12:01 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/controller/UserController.java:9:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:12:02 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:12:01 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/controller/UserController.java:9:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:12:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 399
+Oct 05, 2026 5:12:02 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:12:01 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/controller/UserController.java:9:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:12:02 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:12:01 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/controller/UserController.java:9:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:12:02 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:12:02 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/controller/UserController.java:9:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:12:02 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:12:02 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/controller/UserController.java:9:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:12:02 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:12:02 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/controller/UserController.java:9:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:12:02 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:12:02 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/controller/UserController.java:9:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:12:03 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:12:02 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/controller/UserController.java:9:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:12:03 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:12:03 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/controller/UserController.java:9:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:12:03 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:12:03 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/controller/UserController.java:9:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:12:03 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:12:03 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/controller/UserController.java:9:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:12:04 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:12:03 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/controller/UserController.java:9:2: stale bloop error:  error: illegal start of type
+}
+ ^
+2026.10.05 17:12:05 INFO  compiling flow-forge (1 java source)
+Oct 05, 2026 5:12:05 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:12:05 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/controller/UserController.java:9:2: stale bloop error:  error: illegal start of type
+}
+ ^
+2026.10.05 17:12:05 WARN  javac exited with exit code 1
+2026.10.05 17:12:05 INFO  time: compiled flow-forge in 0.47s
+2026.10.05 17:12:07 INFO  compiling flow-forge (1 java source)
+Oct 05, 2026 5:12:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 453
+Oct 05, 2026 5:12:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 455
+2026.10.05 17:12:08 WARN  javac exited with exit code 1
+2026.10.05 17:12:08 INFO  time: compiled flow-forge in 1.33s
+2026.10.05 17:12:10 INFO  compiling flow-forge (1 java source)
+2026.10.05 17:12:10 WARN  javac exited with exit code 1
+2026.10.05 17:12:10 INFO  time: compiled flow-forge in 0.49s
+2026.10.05 17:12:12 INFO  compiling flow-forge (1 java source)
+2026.10.05 17:12:12 WARN  javac exited with exit code 1
+2026.10.05 17:12:12 INFO  time: compiled flow-forge in 0.57s
+2026.10.05 17:12:16 INFO  compiling flow-forge (1 java source)
+2026.10.05 17:12:16 WARN  javac exited with exit code 1
+2026.10.05 17:12:16 INFO  time: compiled flow-forge in 0.56s
+2026.10.05 17:12:18 INFO  compiling flow-forge (1 java source)
+2026.10.05 17:12:19 INFO  time: compiled flow-forge in 1.17s
+Oct 05, 2026 5:22:45 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.10.05 17:33:08 INFO  compiling flow-forge (1 java source)
+2026.10.05 17:33:08 INFO  time: compiled flow-forge in 0.93s
+2026.10.05 17:33:09 INFO  compiling flow-forge (1 java source)
+2026.10.05 17:33:09 INFO  time: compiled flow-forge in 0.78s
+2026.10.05 17:33:57 INFO  compiling flow-forge (1 java source)
+2026.10.05 17:33:57 WARN  javac exited with exit code 1
+2026.10.05 17:33:57 INFO  time: compiled flow-forge in 0.71s
+Oct 05, 2026 5:33:58 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([1000 (
+) <-> [1000 (
+)) None
+2026.10.05 17:33:58 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:6:1: stale bloop error:  error: reached end of file while parsing
+
+^
+Oct 05, 2026 5:33:58 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([1000 (
+) <-> [1000 (
+)) None
+2026.10.05 17:33:58 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:6:1: stale bloop error:  error: reached end of file while parsing
+
+^
+Oct 05, 2026 5:33:58 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([1000 (
+) <-> [1000 (
+)) None
+2026.10.05 17:33:58 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:6:1: stale bloop error:  error: reached end of file while parsing
+
+^
+Oct 05, 2026 5:33:59 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([1000 (
+) <-> [1000 (
+)) None
+2026.10.05 17:33:58 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:6:1: stale bloop error:  error: reached end of file while parsing
+
+^
+Oct 05, 2026 5:33:59 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([1000 (
+) <-> [1000 (
+)) None
+2026.10.05 17:33:59 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:6:1: stale bloop error:  error: reached end of file while parsing
+
+^
+2026.10.05 17:34:00 INFO  compiling flow-forge (1 java source)
+Oct 05, 2026 5:34:00 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([1000 (
+) <-> [1000 (
+)) None
+2026.10.05 17:34:00 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:6:1: stale bloop error:  error: reached end of file while parsing
+
+^
+Oct 05, 2026 5:34:01 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([1000 ( ) <-> [1000 ( )) None
+2026.10.05 17:34:00 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:7:8: stale bloop error:  error: reached end of file while parsing
+@Table 
+       ^
+2026.10.05 17:34:00 WARN  javac exited with exit code 1
+2026.10.05 17:34:00 INFO  time: compiled flow-forge in 0.48s
+Oct 05, 2026 5:34:01 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([1000 ( ) <-> [1000 ( )) None
+2026.10.05 17:34:00 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:7:8: stale bloop error:  error: reached end of file while parsing
+@Table 
+       ^
+Oct 05, 2026 5:34:01 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([1000 ( ) <-> [1000 ( )) None
+2026.10.05 17:34:00 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:7:8: stale bloop error:  error: reached end of file while parsing
+@Table 
+       ^
+Oct 05, 2026 5:34:01 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([1000 ( ) <-> [1000 ( )) None
+2026.10.05 17:34:00 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:7:8: stale bloop error:  error: reached end of file while parsing
+@Table 
+       ^
+Oct 05, 2026 5:34:01 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([1000 ( ) <-> [1000 ( )) None
+2026.10.05 17:34:00 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:7:8: stale bloop error:  error: reached end of file while parsing
+@Table 
+       ^
+Oct 05, 2026 5:34:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 687
+Oct 05, 2026 5:34:02 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([1000 ( ) <-> [1000 ( )) None
+2026.10.05 17:34:02 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:7:8: stale bloop error:  error: reached end of file while parsing
+@Table 
+       ^
+Oct 05, 2026 5:34:02 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([1000 ( ) <-> [1000 ( )) None
+2026.10.05 17:34:02 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:7:8: stale bloop error:  error: reached end of file while parsing
+@Table 
+       ^
+2026.10.05 17:34:03 INFO  compiling flow-forge (1 java source)
+Oct 05, 2026 5:34:03 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([1000 ( ) <-> [1000 ( )) None
+2026.10.05 17:34:03 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:7:8: stale bloop error:  error: reached end of file while parsing
+@Table 
+       ^
+Oct 05, 2026 5:34:04 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([1000 ( ) <-> [1000 ( )) None
+2026.10.05 17:34:03 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:7:8: stale bloop error:  error: reached end of file while parsing
+@Table 
+       ^
+Oct 05, 2026 5:34:04 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([1000 ( ) <-> [1000 ( )) None
+2026.10.05 17:34:03 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:7:8: stale bloop error:  error: reached end of file while parsing
+@Table 
+       ^
+Oct 05, 2026 5:34:04 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([86 ()) <-> [86 ())) None
+2026.10.05 17:34:03 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:7:17: stale bloop error:  error: reached end of file while parsing
+@Table (name="")
+                ^
+2026.10.05 17:34:03 WARN  javac exited with exit code 1
+2026.10.05 17:34:03 INFO  time: compiled flow-forge in 0.52s
+Oct 05, 2026 5:34:04 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([86 ()) <-> [86 ())) None
+2026.10.05 17:34:03 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:7:17: stale bloop error:  error: reached end of file while parsing
+@Table (name="")
+                ^
+Oct 05, 2026 5:34:04 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([86 ()) <-> [86 ())) None
+2026.10.05 17:34:03 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:7:17: stale bloop error:  error: reached end of file while parsing
+@Table (name="")
+                ^
+2026.10.05 17:34:05 INFO  compiling flow-forge (1 java source)
+Oct 05, 2026 5:34:05 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([86 ()) <-> [86 ())) None
+2026.10.05 17:34:05 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:7:17: stale bloop error:  error: reached end of file while parsing
+@Table (name="")
+                ^
+Oct 05, 2026 5:34:06 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([86 ()) <-> [86 ())) None
+2026.10.05 17:34:05 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:7:22: stale bloop error:  error: reached end of file while parsing
+@Table (name="users")
+                     ^
+2026.10.05 17:34:05 WARN  javac exited with exit code 1
+2026.10.05 17:34:05 INFO  time: compiled flow-forge in 0.5s
+Oct 05, 2026 5:34:06 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([86 ()) <-> [86 ())) None
+2026.10.05 17:34:05 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:7:22: stale bloop error:  error: reached end of file while parsing
+@Table (name="users")
+                     ^
+Oct 05, 2026 5:34:07 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([86 ()) <-> [86 ())) None
+2026.10.05 17:34:07 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:7:22: stale bloop error:  error: reached end of file while parsing
+@Table (name="users")
+                     ^
+Oct 05, 2026 5:34:07 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([86 ()) <-> [86 ())) None
+2026.10.05 17:34:07 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:7:22: stale bloop error:  error: reached end of file while parsing
+@Table (name="users")
+                     ^
+Oct 05, 2026 5:34:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 742
+Oct 05, 2026 5:34:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 743
+Oct 05, 2026 5:34:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 746
+Oct 05, 2026 5:34:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 749
+Oct 05, 2026 5:34:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 748
+Oct 05, 2026 5:34:08 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([86 ()) <-> [86 ())) None
+2026.10.05 17:34:07 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:7:22: stale bloop error:  error: reached end of file while parsing
+@Table (name="users")
+                     ^
+Oct 05, 2026 5:34:08 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([86 ()) <-> [86 ())) None
+2026.10.05 17:34:08 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:7:22: stale bloop error:  error: reached end of file while parsing
+@Table (name="users")
+                     ^
+Oct 05, 2026 5:34:08 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([86 ()) <-> [86 ())) None
+2026.10.05 17:34:08 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:7:22: stale bloop error:  error: reached end of file while parsing
+@Table (name="users")
+                     ^
+Oct 05, 2026 5:34:08 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([86 ()) <-> [86 ())) None
+2026.10.05 17:34:08 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:7:22: stale bloop error:  error: reached end of file while parsing
+@Table (name="users")
+                     ^
+Oct 05, 2026 5:34:08 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([86 ()) <-> [86 ())) None
+2026.10.05 17:34:08 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:7:22: stale bloop error:  error: reached end of file while parsing
+@Table (name="users")
+                     ^
+Oct 05, 2026 5:34:09 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([86 ()) <-> [86 ())) None
+2026.10.05 17:34:08 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:7:22: stale bloop error:  error: reached end of file while parsing
+@Table (name="users")
+                     ^
+Oct 05, 2026 5:34:09 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([86 ()) <-> [86 ())) None
+2026.10.05 17:34:09 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:7:22: stale bloop error:  error: reached end of file while parsing
+@Table (name="users")
+                     ^
+Oct 05, 2026 5:34:09 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([86 ()) <-> [86 ())) None
+2026.10.05 17:34:09 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:7:22: stale bloop error:  error: reached end of file while parsing
+@Table (name="users")
+                     ^
+Oct 05, 2026 5:34:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 771
+Oct 05, 2026 5:34:09 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([86 ()) <-> [86 ())) None
+2026.10.05 17:34:09 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:7:22: stale bloop error:  error: reached end of file while parsing
+@Table (name="users")
+                     ^
+Oct 05, 2026 5:34:10 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([86 ()) <-> [86 ())) None
+2026.10.05 17:34:09 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:7:22: stale bloop error:  error: reached end of file while parsing
+@Table (name="users")
+                     ^
+Oct 05, 2026 5:34:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 778
+Oct 05, 2026 5:34:10 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([86 ()) <-> [86 ())) None
+2026.10.05 17:34:09 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:7:22: stale bloop error:  error: reached end of file while parsing
+@Table (name="users")
+                     ^
+Oct 05, 2026 5:34:10 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([86 ()) <-> [86 ())) None
+2026.10.05 17:34:09 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:7:22: stale bloop error:  error: reached end of file while parsing
+@Table (name="users")
+                     ^
+Oct 05, 2026 5:34:10 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([86 ()) <-> [86 ())) None
+2026.10.05 17:34:09 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:7:22: stale bloop error:  error: reached end of file while parsing
+@Table (name="users")
+                     ^
+Oct 05, 2026 5:34:10 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([86 ()) <-> [86 ())) None
+2026.10.05 17:34:10 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:7:22: stale bloop error:  error: reached end of file while parsing
+@Table (name="users")
+                     ^
+Oct 05, 2026 5:34:10 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([86 ()) <-> [86 ())) None
+2026.10.05 17:34:10 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:7:22: stale bloop error:  error: reached end of file while parsing
+@Table (name="users")
+                     ^
+Oct 05, 2026 5:34:11 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([86 ()) <-> [86 ())) None
+2026.10.05 17:34:11 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:7:22: stale bloop error:  error: reached end of file while parsing
+@Table (name="users")
+                     ^
+Oct 05, 2026 5:34:12 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([86 ()) <-> [86 ())) None
+2026.10.05 17:34:11 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:7:22: stale bloop error:  error: reached end of file while parsing
+@Table (name="users")
+                     ^
+Oct 05, 2026 5:34:12 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([86 ()) <-> [86 ())) None
+2026.10.05 17:34:11 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:7:22: stale bloop error:  error: reached end of file while parsing
+@Table (name="users")
+                     ^
+Oct 05, 2026 5:34:12 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([86 ()) <-> [86 ())) None
+2026.10.05 17:34:11 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:7:22: stale bloop error:  error: reached end of file while parsing
+@Table (name="users")
+                     ^
+2026.10.05 17:34:13 INFO  compiling flow-forge (1 java source)
+2026.10.05 17:34:13 WARN  javac exited with exit code 1
+2026.10.05 17:34:13 INFO  time: compiled flow-forge in 0.51s
+Oct 05, 2026 5:34:14 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([5 (User) <-> [5 (User)) None
+2026.10.05 17:34:14 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:9:18: stale bloop error:  error: reached end of file while parsing
+public class User
+                 ^
+Oct 05, 2026 5:34:14 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([5 (User) <-> [5 (User)) None
+2026.10.05 17:34:14 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:9:18: stale bloop error:  error: reached end of file while parsing
+public class User
+                 ^
+2026.10.05 17:34:15 INFO  compiling flow-forge (1 java source)
+2026.10.05 17:34:15 WARN  javac exited with exit code 1
+2026.10.05 17:34:15 INFO  time: compiled flow-forge in 0.99s
+2026.10.05 17:34:19 INFO  compiling flow-forge (1 java source)
+2026.10.05 17:34:19 WARN  javac exited with exit code 1
+2026.10.05 17:34:19 INFO  time: compiled flow-forge in 0.49s
+Oct 05, 2026 5:34:30 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:34:30 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:12:2: stale bloop error:  error: illegal start of type
+}
+ ^
+2026.10.05 17:34:31 INFO  compiling flow-forge (1 java source)
+2026.10.05 17:34:31 WARN  javac exited with exit code 1
+2026.10.05 17:34:31 INFO  time: compiled flow-forge in 0.47s
+Oct 05, 2026 5:34:35 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:34:35 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:13:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:34:36 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:34:35 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:13:2: stale bloop error:  error: illegal start of type
+}
+ ^
+2026.10.05 17:34:37 INFO  compiling flow-forge (1 java source)
+2026.10.05 17:34:37 WARN  javac exited with exit code 1
+2026.10.05 17:34:37 INFO  time: compiled flow-forge in 0.51s
+Oct 05, 2026 5:34:39 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:34:39 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:14:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:34:40 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:34:39 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:14:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:34:40 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:34:39 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:14:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:34:40 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:34:39 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:14:2: stale bloop error:  error: illegal start of type
+}
+ ^
+2026.10.05 17:34:41 INFO  compiling flow-forge (1 java source)
+2026.10.05 17:34:41 WARN  javac exited with exit code 1
+2026.10.05 17:34:41 INFO  time: compiled flow-forge in 0.48s
+Oct 05, 2026 5:34:43 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:34:43 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:14:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:34:43 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:34:43 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:14:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:34:43 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:34:43 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:14:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:34:43 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:34:43 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:14:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:34:44 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:34:43 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:14:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:34:44 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:34:44 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:14:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:34:45 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:34:44 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:14:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:34:45 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:34:44 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:14:2: stale bloop error:  error: illegal start of type
+}
+ ^
+2026.10.05 17:34:46 INFO  compiling flow-forge (1 java source)
+2026.10.05 17:34:46 WARN  javac exited with exit code 1
+2026.10.05 17:34:46 INFO  time: compiled flow-forge in 0.45s
+Oct 05, 2026 5:34:48 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:34:48 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:15:2: stale bloop error:  error: illegal start of type
+}
+ ^
+2026.10.05 17:34:49 INFO  compiling flow-forge (1 java source)
+2026.10.05 17:34:49 WARN  javac exited with exit code 1
+2026.10.05 17:34:49 INFO  time: compiled flow-forge in 0.51s
+Oct 05, 2026 5:34:50 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:34:50 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:16:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:34:50 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:34:50 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:16:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:34:51 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:34:51 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:16:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:34:52 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:34:51 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:16:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:34:52 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:34:52 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:16:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:34:52 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:34:52 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:16:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:34:52 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:34:52 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:16:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:34:52 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:34:52 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:16:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:34:53 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:34:52 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:16:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:34:53 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:34:52 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:16:2: stale bloop error:  error: illegal start of type
+}
+ ^
+2026.10.05 17:34:54 INFO  compiling flow-forge (1 java source)
+2026.10.05 17:34:54 WARN  javac exited with exit code 1
+2026.10.05 17:34:54 INFO  time: compiled flow-forge in 0.46s
+Oct 05, 2026 5:34:56 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:34:56 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:15:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:34:57 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:34:56 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:15:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:34:57 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:34:56 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:15:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:34:57 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:34:56 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:15:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:34:58 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:34:58 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:15:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:34:58 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:34:58 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:15:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:34:59 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:34:59 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:15:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:34:59 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:34:59 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:15:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:35:00 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:34:59 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:15:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:35:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1043
+Oct 05, 2026 5:35:00 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:34:59 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:15:2: stale bloop error:  error: illegal start of type
+}
+ ^
+2026.10.05 17:35:01 INFO  compiling flow-forge (1 java source)
+2026.10.05 17:35:01 WARN  javac exited with exit code 1
+2026.10.05 17:35:01 INFO  time: compiled flow-forge in 0.51s
+Oct 05, 2026 5:35:03 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:35:03 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:15:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:35:03 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:35:03 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:15:2: stale bloop error:  error: illegal start of type
+}
+ ^
+2026.10.05 17:35:04 INFO  compiling flow-forge (1 java source)
+Oct 05, 2026 5:35:04 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:35:04 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:15:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:35:04 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:35:04 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:15:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:35:04 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:35:04 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:15:2: stale bloop error:  error: illegal start of type
+}
+ ^
+2026.10.05 17:35:04 WARN  javac exited with exit code 1
+2026.10.05 17:35:04 INFO  time: compiled flow-forge in 0.55s
+2026.10.05 17:35:05 INFO  compiling flow-forge (1 java source)
+Oct 05, 2026 5:35:06 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:35:06 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:15:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:35:06 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:35:05 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:15:2: stale bloop error:  error: illegal start of type
+}
+ ^
+2026.10.05 17:35:05 WARN  javac exited with exit code 1
+2026.10.05 17:35:05 INFO  time: compiled flow-forge in 0.56s
+Oct 05, 2026 5:35:06 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:35:06 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:15:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:35:07 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:35:06 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:15:2: stale bloop error:  error: illegal start of type
+}
+ ^
+2026.10.05 17:35:07 INFO  compiling flow-forge (1 java source)
+Oct 05, 2026 5:35:07 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:35:07 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:15:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:35:08 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:35:07 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:15:2: stale bloop error:  error: illegal start of type
+}
+ ^
+2026.10.05 17:35:07 WARN  javac exited with exit code 1
+2026.10.05 17:35:07 INFO  time: compiled flow-forge in 0.5s
+2026.10.05 17:35:08 INFO  compiling flow-forge (1 java source)
+2026.10.05 17:35:08 WARN  javac exited with exit code 1
+2026.10.05 17:35:08 INFO  time: compiled flow-forge in 0.45s
+Oct 05, 2026 5:35:09 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:35:09 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:15:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:35:10 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:35:09 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:15:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:35:10 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:35:09 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:15:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:35:10 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:35:09 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:15:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:35:10 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:35:10 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:15:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:35:11 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:35:10 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:15:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:35:11 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:35:10 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:15:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:35:11 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:35:11 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:15:2: stale bloop error:  error: illegal start of type
+}
+ ^
+2026.10.05 17:35:12 INFO  compiling flow-forge (1 java source)
+Oct 05, 2026 5:35:12 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:35:12 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:15:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:35:13 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:35:12 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:15:2: stale bloop error:  error: illegal start of type
+}
+ ^
+2026.10.05 17:35:12 WARN  javac exited with exit code 1
+2026.10.05 17:35:12 INFO  time: compiled flow-forge in 0.49s
+2026.10.05 17:35:13 INFO  compiling flow-forge (1 java source)
+2026.10.05 17:35:13 WARN  javac exited with exit code 1
+2026.10.05 17:35:13 INFO  time: compiled flow-forge in 0.46s
+Oct 05, 2026 5:35:14 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:35:14 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:16:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:35:15 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:35:14 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:16:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:35:15 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:35:14 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:16:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:35:15 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:35:14 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:16:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:35:15 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:35:14 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:16:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:35:15 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:35:14 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:16:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:35:15 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:35:14 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:16:2: stale bloop error:  error: illegal start of type
+}
+ ^
+2026.10.05 17:35:16 INFO  compiling flow-forge (1 java source)
+Oct 05, 2026 5:35:17 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:35:17 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:16:2: stale bloop error:  error: illegal start of type
+}
+ ^
+2026.10.05 17:35:16 WARN  javac exited with exit code 1
+2026.10.05 17:35:16 INFO  time: compiled flow-forge in 0.53s
+Oct 05, 2026 5:35:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1212
+Oct 05, 2026 5:35:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1214
+Oct 05, 2026 5:35:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1235
+Oct 05, 2026 5:35:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1241
+Oct 05, 2026 5:35:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1260
+2026.10.05 17:35:24 INFO  compiling flow-forge (1 java source)
+Oct 05, 2026 5:35:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1279
+Oct 05, 2026 5:35:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1281
+Oct 05, 2026 5:35:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1282
+Oct 05, 2026 5:35:24 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:35:24 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:16:2: stale bloop error:  error: illegal start of type
+}
+ ^
+2026.10.05 17:35:24 WARN  javac exited with exit code 1
+2026.10.05 17:35:24 INFO  time: compiled flow-forge in 0.64s
+Oct 05, 2026 5:35:25 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:35:25 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:16:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:35:25 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:35:25 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:16:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:35:25 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:35:25 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:16:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:35:26 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:35:25 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:16:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:35:26 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:35:26 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:16:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:35:26 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:35:26 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:16:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:35:27 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:35:27 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:16:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:35:28 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:35:27 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:16:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:35:28 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:35:27 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:16:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:35:28 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:35:28 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:16:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:35:29 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:35:28 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:16:2: stale bloop error:  error: illegal start of type
+}
+ ^
+2026.10.05 17:35:30 INFO  compiling flow-forge (1 java source)
+2026.10.05 17:35:30 WARN  javac exited with exit code 1
+2026.10.05 17:35:30 INFO  time: compiled flow-forge in 0.48s
+Oct 05, 2026 5:35:31 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:35:31 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:19:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:35:31 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:35:31 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:19:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:35:31 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:35:31 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:19:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:35:31 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:35:31 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:19:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:35:31 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:35:31 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:19:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:35:32 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:35:32 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:19:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:35:32 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:35:32 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:19:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:35:33 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:35:33 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:19:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:35:34 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:35:33 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:19:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:35:34 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:35:33 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:19:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:35:34 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:35:33 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:19:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:35:35 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:35:35 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:19:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:35:35 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:35:35 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:19:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:35:35 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:35:35 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:19:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:35:35 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:35:35 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:19:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:35:35 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:35:35 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:19:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:35:36 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:35:36 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:19:2: stale bloop error:  error: illegal start of type
+}
+ ^
+2026.10.05 17:35:37 INFO  compiling flow-forge (1 java source)
+Oct 05, 2026 5:35:37 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:35:37 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:19:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:35:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1434
+Oct 05, 2026 5:35:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1433
+Oct 05, 2026 5:35:37 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:35:37 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:19:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:35:37 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:35:37 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:19:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:35:38 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:35:37 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:19:2: stale bloop error:  error: illegal start of type
+}
+ ^
+2026.10.05 17:35:37 WARN  javac exited with exit code 1
+Oct 05, 2026 5:35:38 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:35:37 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:19:2: stale bloop error:  error: illegal start of type
+}
+ ^
+2026.10.05 17:35:37 INFO  time: compiled flow-forge in 0.61s
+Oct 05, 2026 5:35:38 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:35:37 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:19:2: stale bloop error:  error: illegal start of type
+}
+ ^
+2026.10.05 17:35:39 INFO  compiling flow-forge (1 java source)
+2026.10.05 17:35:39 WARN  javac exited with exit code 1
+2026.10.05 17:35:39 INFO  time: compiled flow-forge in 0.48s
+Oct 05, 2026 5:35:40 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:35:40 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:19:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:35:41 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:35:40 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:19:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:35:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1463
+Oct 05, 2026 5:35:41 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:35:40 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:19:2: stale bloop error:  error: illegal start of type
+}
+ ^
+2026.10.05 17:35:42 INFO  compiling flow-forge (1 java source)
+Oct 05, 2026 5:35:42 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:35:42 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:19:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:35:42 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:35:42 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:19:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:35:42 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:35:42 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:19:2: stale bloop error:  error: illegal start of type
+}
+ ^
+2026.10.05 17:35:42 WARN  javac exited with exit code 1
+2026.10.05 17:35:42 INFO  time: compiled flow-forge in 0.56s
+Oct 05, 2026 5:35:43 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:35:42 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:19:2: stale bloop error:  error: illegal start of type
+}
+ ^
+2026.10.05 17:35:44 INFO  compiling flow-forge (1 java source)
+2026.10.05 17:35:44 WARN  javac exited with exit code 1
+2026.10.05 17:35:44 INFO  time: compiled flow-forge in 0.56s
+Oct 05, 2026 5:35:46 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:35:46 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:19:2: stale bloop error:  error: illegal start of type
+}
+ ^
+2026.10.05 17:35:47 INFO  compiling flow-forge (1 java source)
+2026.10.05 17:35:47 WARN  javac exited with exit code 1
+2026.10.05 17:35:47 INFO  time: compiled flow-forge in 0.58s
+Oct 05, 2026 5:35:56 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:35:56 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:20:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:35:57 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:35:57 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:20:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:35:58 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:35:57 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:20:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:35:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1532
+Oct 05, 2026 5:35:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1529
+Oct 05, 2026 5:35:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1534
+Oct 05, 2026 5:35:58 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:35:57 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:20:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:35:58 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:35:57 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:20:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:35:59 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:35:59 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:20:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:35:59 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:35:59 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:20:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:35:59 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:35:59 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:20:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:36:00 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:36:00 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:20:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:36:01 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:36:00 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:20:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:36:01 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:36:00 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:20:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:36:01 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:36:00 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:20:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:36:01 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:36:00 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:20:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:36:01 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:36:00 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:20:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:36:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1554
+Oct 05, 2026 5:36:01 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:36:00 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:20:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:36:01 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:36:01 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:20:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:36:01 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:36:01 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:20:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:36:01 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:36:01 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:20:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:36:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1570
+Oct 05, 2026 5:36:01 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:36:01 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:20:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:36:02 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:36:02 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:20:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:36:03 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:36:02 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:20:2: stale bloop error:  error: illegal start of type
+}
+ ^
+Oct 05, 2026 5:36:03 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:36:02 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:20:2: stale bloop error:  error: illegal start of type
+}
+ ^
+2026.10.05 17:36:04 INFO  compiling flow-forge (1 java source)
+Oct 05, 2026 5:36:05 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$8
+WARNING: stale range: Some([95 (}) <-> [95 (})) None
+2026.10.05 17:36:05 INFO  file:///C:/dev/flow-forge/src/main/java/com/flowforge/user/entity/User.java:20:2: stale bloop error:  error: illegal start of type
+}
+ ^
+2026.10.05 17:36:08 WARN  javac exited with exit code 1
+2026.10.05 17:36:08 INFO  time: compiled flow-forge in 3.38s
+2026.10.05 17:36:08 INFO  compiling flow-forge (1 java source)
+2026.10.05 17:36:10 WARN  javac exited with exit code 1
+2026.10.05 17:36:10 INFO  time: compiled flow-forge in 2.83s
+2026.10.05 17:36:44 INFO  compiling flow-forge (1 java source)
+2026.10.05 17:36:45 WARN  javac exited with exit code 1
+2026.10.05 17:36:45 INFO  time: compiled flow-forge in 1.27s
+2026.10.05 17:40:41 INFO  running 'C:\dev\flow-forge\gradlew.bat --stacktrace --console=plain --init-script C:\Users\ABDUL~1.AZI\AppData\Local\Temp\metals12125787341448853714\init-script.gradle bloopInstall'
+2026.10.05 17:40:42 INFO  > Task :configureBloopInstall
+2026.10.05 17:40:44 INFO  > Task :bloopInstall
+2026.10.05 17:40:44 INFO  
+2026.10.05 17:40:44 INFO  [Incubating] Problems report is available at: file:///C:/dev/flow-forge/build/reports/problems/problems-report.html
+2026.10.05 17:40:44 INFO  
+2026.10.05 17:40:44 INFO  Deprecated Gradle features were used in this build, making it incompatible with Gradle 10.
+2026.10.05 17:40:44 INFO  
+2026.10.05 17:40:44 INFO  You can use '--warning-mode all' to show the individual deprecation warnings and determine if they come from your own scripts or plugins.
+2026.10.05 17:40:44 INFO  
+2026.10.05 17:40:44 INFO  For more on this, please refer to https://docs.gradle.org/9.7.1/userguide/command_line_interface.html#sec:command_line_warnings in the Gradle documentation.
+2026.10.05 17:40:44 INFO  
+2026.10.05 17:40:44 INFO  BUILD SUCCESSFUL in 2s
+2026.10.05 17:40:44 INFO  2 actionable tasks: 2 executed
+2026.10.05 17:40:44 INFO  Consider enabling configuration cache to speed up this build: https://docs.gradle.org/9.7.1/userguide/configuration_cache_enabling.html
+2026.10.05 17:40:44 INFO  time: ran 'gradle bloopInstall' in 2.79s
+2026.10.05 17:40:44 INFO  Disconnecting from Bloop session...
+2026.10.05 17:40:44 INFO  Shut down connection with build server.
+2026.10.05 17:40:44 INFO  Attempting to connect to the build server...
+2026.10.05 17:40:44 INFO  Found a Bloop server running
+2026.10.05 17:40:44 WARN  Failed to digest workspace C:\dev\flow-forge for build tool gradle with error: java.nio.file.NoSuchFileException: C:\dev\flow-forge\.bloop\flow-forge-test\build\bloop-bsp-clients-classes\classes-Metals-rq88fgpHSH6ymdAJPpHPOA==\META-INF\semanticdb\src\test\java, will retry
+2026.10.05 17:40:44 INFO  Tracing is disabled for protocol BSP. To enable tracing of incoming and outgoing JSON messages, create an empty file at C:\dev\flow-forge\.metals\bsp.trace.json or C:\Users\abdul.aziz\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2026.10.05 17:40:44 INFO  time: Connected to build server in 0.12s
+2026.10.05 17:40:44 INFO  Connected to Build server: Bloop v2.1.2
+2026.10.05 17:40:44 INFO  time: Imported build in 0.24s
+2026.10.05 17:40:50 INFO  time: indexed workspace in 5.98s
+2026.10.05 17:40:50 INFO  compiling flow-forge (1 java source)
