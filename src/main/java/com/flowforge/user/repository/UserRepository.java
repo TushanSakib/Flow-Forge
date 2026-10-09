@@ -1,0 +1,8 @@
+package com.flowforge.user.repository;
+
+import com.flowforge.user.entity.User;
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface UserRepository extends JpaRepository<User, Long> {
+
+}
